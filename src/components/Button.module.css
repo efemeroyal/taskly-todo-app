@@ -1,0 +1,12 @@
+.btn {
+  padding: 0.5rem 1rem;
+  border-radius: 3px;
+  border: 1px solid currentColor;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.accent {
+  background: var(--accent);
+  color: var(--primary);
+}

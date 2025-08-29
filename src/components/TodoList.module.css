@@ -1,0 +1,13 @@
+.todoItems {
+  background: var(--secondary-light);
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.todoList {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  height: 15.5rem;
+  overflow: auto;
+}
